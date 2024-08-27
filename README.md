@@ -1,2 +1,7 @@
 # ToroYPedroSonLaMismaPersona
-Toro y Pedro son la misma persona. Solo que uno es un holograma bastante bien realizado, sin embargo no sabemos quien de los dos es el holograma. Por cierto, aquí también esta el ejercicio pedido :D. 
+Toro y Pedro son la misma persona. Es un misterio si Toro o Pedro es el holograma, pero uno de los dos ciertamente lo es. El holograma es tan bien realizado que es difícil distinguir quién es el real y quién es la proyección digital.
+
+Ah por cierto para ejecutar el proyecto usar: 
+
+```bash
+npm run dev
